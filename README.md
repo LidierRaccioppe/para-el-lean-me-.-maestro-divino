@@ -11,7 +11,10 @@
 ahora yo `tengo` tengo
 `#0d1117` cuantas recargaras necesitaria
 [para poder](https://tirar.github/)
+![me agrada](https://previews.123rf.com/images/cthoman/cthoman1507/cthoman150704000/42751389-una-ilustraci%C3%B3n-de-dibujos-animados-de-un-mono-de-pie-feo-.jpg)
 
+1. si maximo usa esto
+   -puede ahorarse las otras listas 
 
 
 
