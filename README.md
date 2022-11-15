@@ -16,11 +16,15 @@ ahora yo `tengo` tengo
 1. si maximo usa esto
    -puede ahorarse las otras listas 
 
+- [x]no olvidarse del espacio, listo
+- []ese mono es muy grande
 
+@ogranytodopoderosojamajamajama me interesaria si alguien tiene ese nombre
 
+usar emojis va encontra de mi codigo moral 👎
 
+[^1]quien tuvo la idea de poner los cambios de linea tan abajo de la guia?
 
-
-
+<!-- ese interogante se ve feo y esas ultimas lineas son para mi tortura -->
 
 
