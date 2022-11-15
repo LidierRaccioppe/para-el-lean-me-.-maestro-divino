@@ -24,7 +24,7 @@ ahora yo `tengo` tengo
 
 usar emojis va encontra de mi codigo moral 👎
 
-quien tuvo la idea de poner los cambios de linea tan abajo de la guia?[^1]
+quien tuvo la idea de poner los cambios de linea tan abajo de la guia? [^1].
 
 <!-- ese interogante se ve feo y esas ultimas lineas son para mi tortura -->
 
