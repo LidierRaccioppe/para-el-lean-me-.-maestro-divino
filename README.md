@@ -28,4 +28,4 @@ quien tuvo la idea de poner los cambios de linea tan abajo de la guia? [^1].
 
 <!-- ese interogante se ve feo y esas ultimas lineas son para mi tortura -->
 
-
+[^1]: Si miras al mono el mono te mira a ti.
