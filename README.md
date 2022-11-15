@@ -8,7 +8,7 @@
 <sup>creo que le pagan</sup>
 >al profesor me refiero>
 ahora yo `tengo` tengo
-
+#ffffff cuantas recargar necesitaria
 
 
 
