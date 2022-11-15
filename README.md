@@ -9,7 +9,7 @@
 >al profesor me refiero<>
 
 ahora yo `tengo` tengo
-#ffffff cuantas recargar necesitaria
+`#0d1117` cuantas recargaras necesitaria
 
 
 
