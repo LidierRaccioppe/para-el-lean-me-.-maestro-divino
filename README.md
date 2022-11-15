@@ -2,10 +2,10 @@
 ##*maximo-pondra-cosas-casi-sin-sentido*##
 ###~~a-esta-hora-me-gusta-hablar-en-tercera-persona~~###
 <br>
-#####**_ayuda-quiero-algo_**#####
-####***probablemente-nunca-lo-conozca####
-	<sub>subscribance al git hub
-
+#####**_/ayuda-quiero-algo/_**#####
+####***/probablemente-nunca-lo-conozca/####
+	<sub>subscribance al git hub</sub>
+<sup>creo que le pagan</sup>
 
 
 
