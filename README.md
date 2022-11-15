@@ -10,7 +10,7 @@
 
 ahora yo `tengo` tengo
 `#0d1117` cuantas recargaras necesitaria
-
+[para poder](https://tirar.github/)
 
 
 
