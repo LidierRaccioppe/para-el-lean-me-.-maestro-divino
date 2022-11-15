@@ -14,16 +14,17 @@ ahora yo `tengo` tengo
 ![me agrada](https://previews.123rf.com/images/cthoman/cthoman1507/cthoman150704000/42751389-una-ilustraci%C3%B3n-de-dibujos-animados-de-un-mono-de-pie-feo-.jpg)
 
 1. si maximo usa esto
+
    -puede ahorarse las otras listas 
 
-- [x]no olvidarse del espacio, listo
-- []ese mono es muy grande
+- [x] no olvidarse del espacio, listo
+- [] ese mono es muy grande
 
 @ogranytodopoderosojamajamajama me interesaria si alguien tiene ese nombre
 
 usar emojis va encontra de mi codigo moral 👎
 
-[^1]quien tuvo la idea de poner los cambios de linea tan abajo de la guia?
+quien tuvo la idea de poner los cambios de linea tan abajo de la guia?[^1]
 
 <!-- ese interogante se ve feo y esas ultimas lineas son para mi tortura -->
 
